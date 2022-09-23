@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>657019008507-9mlmjoi3mrct4i05n98ik39epesn1pk4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.657019008507-9mlmjoi3mrct4i05n98ik39epesn1pk4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCH23ulnPROxDu_WDJk-LjLM4QBC8V1efg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>657019008507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cakedash</string>
+	<key>PROJECT_ID</key>
+	<string>cakedash-6edd5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cakedash-6edd5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:657019008507:ios:84fb8c767b85085430875e</string>
+	<key>DATABASE_URL</key>
+	<string>https://cakedash-6edd5.firebaseio.com</string>
+</dict>
+</plist>
